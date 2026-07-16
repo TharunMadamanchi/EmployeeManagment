@@ -1,0 +1,13 @@
+# React
+react-hooks-frontend/node_modules/
+react-hooks-frontend/build/
+
+# Spring Boot
+springboot-backend/target/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
